@@ -1,0 +1,28 @@
+===== ESTADO DEL REFUGIO =====
+
+Cuidador: Carlos
+ID: 1
+Mascotas asignadas: 4
+--------------------------------
+Nombre: Toby
+Edad: 3
+Raza: Labrador
+
+Nombre: Michi
+Edad: 2
+Raza: Siamés
+
+Nombre: Pepe
+Edad: 5
+Raza: Loro gris
+
+Nombre: Nico
+Edad: 1
+Raza: Hurón albino
+
+
+Cuidador: Laura
+ID: 2
+Mascotas asignadas: 0
+--------------------------------
+
